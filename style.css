@@ -81,7 +81,11 @@ nav img{
     background: #f44366;
     transition: 1s;
 }
-
+@media(max-width: 700px){
+    .text-box h1{
+        font-size: 20px;
+    }
+}
 
 
 
