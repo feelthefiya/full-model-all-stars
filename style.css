@@ -81,7 +81,7 @@ nav img{
     background: #f44366;
     transition: 1s;
 }
-nav .fa{
+nav .fa-solid{
     display: none;
 }
 @media(max-width: 700px){
@@ -102,7 +102,7 @@ nav .fa{
         z-index: 2;
         transition: 1s;
     }
-    nav .fa{
+    nav .fa-solid{
         display: block;
         color: #fff;
         margin: 10px;
