@@ -115,7 +115,7 @@ nav .fa-solid{
 }
 
 
-/* About Us */
+/* 3 box on homepage */
 
 .About{
     width: 80%;
@@ -184,6 +184,19 @@ h3{
  }
  .fa-heart-o{
     color: #f44366;
+ }
+
+ /* about us-webpage */
+
+ .sub-header{
+    height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background-about.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+
  }
 
 
