@@ -273,6 +273,16 @@ h3{
     font-weight: 400;
 }
 
+.red-btn{
+    border: 1px solid #f44366;
+    background: transparent;
+    color: #f44366;
+}
+
+.red-btn:hover{
+    color: #fff;
+}
+
 
 
 
