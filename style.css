@@ -227,6 +227,15 @@ h3{
     padding: 15px 0 25px;
 }
 
+/* contact us-webpage */
+.location{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+}
+.location iframe{
+    width: 100%;
+}
 
 
 
