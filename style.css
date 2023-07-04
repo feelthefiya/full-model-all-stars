@@ -192,7 +192,7 @@ h3{
  .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background-about-header.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background-header.PNG);
     background-position: center;
     background-size: cover;
     text-align: center;
