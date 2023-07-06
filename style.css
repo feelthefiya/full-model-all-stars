@@ -297,7 +297,6 @@ h3{
 
 .iframe-container{
     position: relative;
-    width: 100%;
     padding-bottom: 56.25%;
     height: 0;
 }
@@ -308,6 +307,12 @@ h3{
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.iframe-wrap{
+    width: 800px;
+    padding-top: 80px;
+    padding-bottom: 50px;
 }
 
 
